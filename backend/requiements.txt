@@ -1,0 +1,7 @@
+fastapi
+openai
+python-dotenv
+requests
+torch
+transformers>=5.0.0
+uvicorn
